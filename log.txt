@@ -1,0 +1,17 @@
+commit 83f72f45474a87d714cf04db8bf12aba4bd06188 (HEAD -> master)
+Author: Katya <kbratchik@bk.ru>
+Date:   Wed Feb 10 14:51:21 2021 +0300
+
+    add status.txt
+
+commit 3675bebbdd0acf70c2e02739eea31fce28fc34a7
+Author: Katya <kbratchik@bk.ru>
+Date:   Wed Feb 10 13:07:44 2021 +0300
+
+    add task1
+
+commit ad8a749f16b0ef06f6f82de794b0302a26d28c93
+Author: Katya <kbratchik@bk.ru>
+Date:   Wed Feb 10 12:59:29 2021 +0300
+
+    add .gitignore
